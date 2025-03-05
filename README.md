@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ritik Rai <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A22D&width=435&lines=Your+Name+Here" alt="Typing SVG" />
+# Hi there! 👋 I'm Ritik Rai <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A22D&width=435&lines=Hi! I'm Ritik Rai" alt="Typing SVG" />
 
 
 <!--
